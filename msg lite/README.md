@@ -23,7 +23,7 @@ Para mostrar el mensaje se espera que desde el back la vista que retorne incluya
 _Simple_
 
 ```php
-return route('route.name')->with('message', 'Welcome'))->with('message_type', 'success');
+return route('route.name')->with('message', 'Welcome')->with('message_type', 'success');
 ```
 
 _Con redirect y utilizando traducción._
