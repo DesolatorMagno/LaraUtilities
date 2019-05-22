@@ -5,3 +5,4 @@ Una colección de herramientas, scripts o pequeños snippets de código útiles 
 ## Paquetes
 
 - msg-lite: Codigo que hace uso de SweetAlert2 para mostrar mensajes personalizados al usuario.
+- msg-lite-trait: Trait para el msg-lite, para simplificar el proceso.
